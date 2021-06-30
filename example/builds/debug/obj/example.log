@@ -1,0 +1,5 @@
+﻿  gamecore.cpp
+c:\users\zack\documents\visual studio 2017\projects\zconsole\example\sources\gamecore.cpp(99): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  example.vcxproj -> C:\Users\Zack\Documents\Visual Studio 2017\Projects\zconsole\example\.\builds\debug\bin\example-d.exe

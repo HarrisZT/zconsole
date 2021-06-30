@@ -1,0 +1,8 @@
+﻿  gamecore.cpp
+c:\users\zack\documents\visual studio 2017\projects\zconsole\example\sources\gamecore.cpp(99): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating code
+  3 of 1579 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  example.vcxproj -> C:\Users\Zack\Documents\Visual Studio 2017\Projects\zconsole\example\.\builds\release\bin\example.exe
