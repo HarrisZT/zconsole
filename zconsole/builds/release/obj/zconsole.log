@@ -1,0 +1,7 @@
+﻿  zcommandtable.cpp
+  zconsole.cpp
+  zhistory.cpp
+  zscreen.cpp
+  zcursor.cpp
+  zhelperfuncs.cpp
+  zconsole.vcxproj -> C:\Users\Zack\Documents\Visual Studio 2017\Projects\zconsole\zconsole\.\builds\release\bin\zconsole.lib
