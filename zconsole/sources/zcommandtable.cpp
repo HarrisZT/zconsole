@@ -23,11 +23,11 @@ freely, subject to the following restrictions:
    misrepresented as being the original software.
 3. This notice may not be removed or altered from any source distribution.
 ******************************************************************************/  
-#include "zhelperfuncs.h"  
-#include "zhistory.h"
-#include "zconsoledefs.h"
-#include "zscreen.h"
-#include "zcommandtable.h" 
+#include "zhelperfuncs.hpp"  
+#include "zhistory.hpp"
+#include "zconsoledefs.hpp"
+#include "zscreen.hpp"
+#include "zcommandtable.hpp" 
 
 
 
