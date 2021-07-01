@@ -53,8 +53,8 @@ freely, subject to the following restrictions:
 #    include "../detail/ResourcePath.hpp"
 #  endif 
 #endif  
-#include "steptimer.h"  
-#include "gamecore.h" 
+#include "steptimer.hpp"  
+#include "gamecore.hpp" 
  
  
 
