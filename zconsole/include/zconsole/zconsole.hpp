@@ -2,7 +2,7 @@
 * zconsole - sfml based in-game console module 
 * Copyright (C) 2020-2021 Zachary T Harris. All Rights Reserved.  
 * 
-* File: zconsole.h
+* File: zconsole.hpp
 * Desc: public interface for console
 *******************************************************************************
 
@@ -23,8 +23,8 @@ freely, subject to the following restrictions:
    misrepresented as being the original software.
 3. This notice may not be removed or altered from any source distribution.
 ******************************************************************************/ 
-#ifndef __ZCONSOLE_H__
-#define __ZCONSOLE_H__
+#ifndef __ZCONSOLE_HPP__
+#define __ZCONSOLE_HPP__
 
 #include "ztypes.h" 
  
