@@ -3,7 +3,7 @@
 * Copyright (C) 2020-2021 Zachary T Harris. All Rights Reserved. 
 * Example Program
 * 
-* File: steptimer.h 
+* File: steptimer.hpp 
 * Desc: interface for tracking framerate at a fixed timestep
 *******************************************************************************
 
@@ -24,10 +24,10 @@ freely, subject to the following restrictions:
    misrepresented as being the original software.
 3. This notice may not be removed or altered from any source distribution.
 ******************************************************************************/  
-#ifndef __STEPTIMER_H__
-#define __STEPTIMER_H__
+#ifndef __STEPTIMER_HPP__
+#define __STEPTIMER_HPP__
 
-#include "zconsole/ztypes.h"
+#include "zconsole/ztypes.hpp"
 
 
 
