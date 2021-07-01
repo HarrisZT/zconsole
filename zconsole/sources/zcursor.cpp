@@ -23,9 +23,9 @@ freely, subject to the following restrictions:
    misrepresented as being the original software.
 3. This notice may not be removed or altered from any source distribution.
 ******************************************************************************/  
-#include "zconsoledefs.h" 
-#include "zhelperfuncs.h"
-#include "zcursor.h"
+#include "zconsoledefs.hpp" 
+#include "zhelperfuncs.hpp"
+#include "zcursor.hpp"
 
 
 
