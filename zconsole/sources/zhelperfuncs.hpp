@@ -2,7 +2,7 @@
 * zconsole - sfml based in-game console module 
 * Copyright (C) 2020-2021 Zachary T Harris. All Rights Reserved.  
 * 
-* File: zhelperfuncs.h
+* File: zhelperfuncs.hpp
 * Desc: helper functions
 *******************************************************************************
 
@@ -23,11 +23,11 @@ freely, subject to the following restrictions:
    misrepresented as being the original software.
 3. This notice may not be removed or altered from any source distribution.
 ******************************************************************************/ 
-#ifndef __ZHELPERFUNCS_H__
-#define __ZHELPERFUNCS_H__
+#ifndef __ZHELPERFUNCS_HPP__
+#define __ZHELPERFUNCS_HPP__
 
 #include <assert.h>  
-#include "zconsole/ztypes.h"
+#include "zconsole/ztypes.hpp"
 
 
 
