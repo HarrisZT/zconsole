@@ -2,7 +2,7 @@
 * zconsole - sfml based in-game console module 
 * Copyright (C) 2020-2021 Zachary T Harris. All Rights Reserved.  
 * 
-* File: ztimers.h
+* File: ztimers.hpp
 * Desc: utility timiing 
 *******************************************************************************
 
@@ -23,10 +23,10 @@ freely, subject to the following restrictions:
    misrepresented as being the original software.
 3. This notice may not be removed or altered from any source distribution.
 ******************************************************************************/ 
-#ifndef __ZTIMERS_H__
-#define __ZTIMERS_H__
+#ifndef __ZTIMERS_HPP__
+#define __ZTIMERS_HPP__
 		    
-#include "zconsole/ztypes.h"
+#include "zconsole/ztypes.hpp"
 
 
 
