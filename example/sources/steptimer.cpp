@@ -26,7 +26,7 @@ freely, subject to the following restrictions:
 ******************************************************************************/ 
 #include <sstream>
 #include <iomanip> 
-#include "steptimer.h"
+#include "steptimer.hpp"
 
 #define SAMPLEDEPTH      100
 #define GetSampleDepth() ((sf::Int64)(m_sampleData.size()))
