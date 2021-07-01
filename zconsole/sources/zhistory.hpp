@@ -2,7 +2,7 @@
 * zconsole - sfml based in-game console module 
 * Copyright (C) 2020-2021 Zachary T Harris. All Rights Reserved.  
 * 
-* File: zhistory.h
+* File: zhistory.hpp
 * Desc: interface for console command history
 *******************************************************************************
 
@@ -23,10 +23,10 @@ freely, subject to the following restrictions:
    misrepresented as being the original software.
 3. This notice may not be removed or altered from any source distribution.
 ******************************************************************************/ 
-#ifndef __ZHISTORY_H__
-#define __ZHISTORY_H__
+#ifndef __ZHISTORY_HPP__
+#define __ZHISTORY_HPP__
 
-#include "zconsole/zconsole.h"
+#include "zconsole/zconsole.hpp"
  
 
 
