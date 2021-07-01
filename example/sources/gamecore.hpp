@@ -3,7 +3,7 @@
 * Copyright (C) 2020-2021 Zachary T Harris. All Rights Reserved. 
 * Example Program
 * 
-* File: gamecore.h
+* File: gamecore.hpp
 * Desc: central game core, runs the show
 *******************************************************************************
 
@@ -24,11 +24,11 @@ freely, subject to the following restrictions:
    misrepresented as being the original software.
 3. This notice may not be removed or altered from any source distribution.
 ******************************************************************************/  
-#ifndef __GAMECORE_H__
-#define __GAMECORE_H__  
+#ifndef __GAMECORE_HPP__
+#define __GAMECORE_HPP__  
 
-#include "steptimer.h"  
-#include "zconsole/zconsole.h"
+#include "steptimer.hpp"  
+#include "zconsole/zconsole.hpp"
 
 
 
