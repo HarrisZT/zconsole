@@ -25,7 +25,7 @@ freely, subject to the following restrictions:
 ******************************************************************************/ 
 #include <sstream>
 #include <iomanip>
-#include "zhelperfuncs.h"
+#include "zhelperfuncs.hpp"
 
 
 
