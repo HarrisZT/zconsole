@@ -2,7 +2,7 @@
 * zconsole - sfml based in-game console module 
 * Copyright (C) 2020-2021 Zachary T Harris. All Rights Reserved.  
 * 
-* File: zconsoledefs.h
+* File: zconsoledefs.hpp
 * Desc: common global console constants
 *******************************************************************************
 
@@ -23,8 +23,8 @@ freely, subject to the following restrictions:
    misrepresented as being the original software.
 3. This notice may not be removed or altered from any source distribution.
 ******************************************************************************/  
-#ifndef __ZCONSOLEDEFS_H__
-#define	__ZCONSOLEDEFS_H__
+#ifndef __ZCONSOLEDEFS_HPP__
+#define	__ZCONSOLEDEFS_HPP__
 
 #define ZCONSOLE_PROMPT         ">: "  
 #define ZCONSOLE_WIDTH          80
