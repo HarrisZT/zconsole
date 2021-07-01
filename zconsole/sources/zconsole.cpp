@@ -23,15 +23,15 @@ freely, subject to the following restrictions:
    misrepresented as being the original software.
 3. This notice may not be removed or altered from any source distribution.
 ******************************************************************************/  
-#include "zconsoledefs.h"
-#include "zfontdata.h"
-#include "ztimers.h"
-#include "zhelperfuncs.h" 
-#include "zcommandtable.h"  
-#include "zscreen.h"
-#include "zhistory.h"
-#include "zcursor.h" 
-#include "zconsole/zconsole.h" 
+#include "zconsoledefs.hpp"
+#include "zfontdata.hpp"
+#include "ztimers.hpp"
+#include "zhelperfuncs.hpp" 
+#include "zcommandtable.hpp"  
+#include "zscreen.hpp"
+#include "zhistory.hpp"
+#include "zcursor.hpp" 
+#include "zconsole/zconsole.hpp" 
 
  
 
