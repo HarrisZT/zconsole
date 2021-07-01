@@ -2,7 +2,7 @@
 * zconsole - sfml based in-game console module 
 * Copyright (C) 2020-2021 Zachary T Harris. All Rights Reserved.  
 * 
-* File: zcursor.h
+* File: zcursor.hpp
 * Desc: interface for console cursor
 *******************************************************************************
 
@@ -23,11 +23,11 @@ freely, subject to the following restrictions:
    misrepresented as being the original software.
 3. This notice may not be removed or altered from any source distribution.
 ******************************************************************************/ 
-#ifndef __ZCURSOR_H__
-#define __ZCURSOR_H__
+#ifndef __ZCURSOR_HPP__
+#define __ZCURSOR_HPP__
 
-#include "ztimers.h"
-#include "zconsole/zconsole.h"
+#include "ztimers.hpp"
+#include "zconsole/zconsole.hpp"
 
 
 
