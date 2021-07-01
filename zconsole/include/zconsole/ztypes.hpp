@@ -2,7 +2,7 @@
 * zconsole - sfml based in-game console module 
 * Copyright (C) 2020-2021 Zachary T Harris. All Rights Reserved.  
 * 
-* File: ztypes.h
+* File: ztypes.hpp
 * Desc: basic type definitions used by zconsole
 *******************************************************************************
 
@@ -23,8 +23,8 @@ freely, subject to the following restrictions:
    misrepresented as being the original software.
 3. This notice may not be removed or altered from any source distribution.
 ******************************************************************************/ 
-#ifndef __ZTYPES_H__
-#define __ZTYPES_H__
+#ifndef __ZTYPES_HPP__
+#define __ZTYPES_HPP__
 
 #include <vector>
 #include <string>
